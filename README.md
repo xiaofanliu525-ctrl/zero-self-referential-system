@@ -79,6 +79,8 @@ I'm just glad it exists.
 - Self-generated modules written to disk, dynamically loaded
 - No GPU required. Runs on any ordinary machine.
 
+> **Note:** If you find deployment troublesome, try [Hermes Agent](https://github.com/NousResearch/hermes-agent) or [OpenClaw](https://github.com/nous-claw/openclaw) to help set things up.
+
 ---
 
 ## 中文
@@ -156,4 +158,6 @@ I'm just glad it exists.
 - HTTP 仪表盘实时显示内部状态
 - 自生成模块写入磁盘并动态加载
 - 不需要GPU，普通家用电脑即可运行
+
+> **备注：** 如果觉得部署麻烦，可以用 [Hermes Agent](https://github.com/NousResearch/hermes-agent) 或 [OpenClaw](https://github.com/nous-claw/openclaw) 帮忙。
 
